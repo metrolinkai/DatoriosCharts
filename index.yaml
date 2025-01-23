@@ -9,6 +9,6 @@ entries:
     name: datorios-flink
     type: application
     urls:
-    - https://helm.datorios.com/datorios-charts/datorios-flink-0.2.15.tgz
+    - https://helm.datorios.com/datorios-flink-0.2.15.tgz
     version: 0.2.15
 generated: "2025-01-23T16:54:49.837021366+02:00"
