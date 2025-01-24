@@ -3,12 +3,12 @@ entries:
   datorios-flink:
   - apiVersion: v2
     appVersion: 0.2.15
-    created: "2025-01-23T16:54:49.837283232+02:00"
+    created: "2025-01-24T08:51:05.074560957+02:00"
     description: Helm chart to deploy Datorios
-    digest: 31a0b06cab1f435e66a651ecfe53f708f48d4e8f36ba0cf14845b5b6be85d682
+    digest: 188a026ebedcb94670799a2993a43bcbdb38dc505759c38be8b18c0ec5cb3c6d
     name: datorios-flink
     type: application
     urls:
     - https://helm.datorios.com/datorios-flink-0.2.15.tgz
     version: 0.2.15
-generated: "2025-01-23T16:54:49.837021366+02:00"
+generated: "2025-01-24T08:51:05.074300618+02:00"
