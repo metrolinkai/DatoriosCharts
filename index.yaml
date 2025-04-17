@@ -3,9 +3,9 @@ entries:
   datorios-flink:
   - apiVersion: v2
     appVersion: 0.2.15
-    created: "2025-03-06T22:50:11.127417021+02:00"
+    created: "2025-04-17T10:13:19.54242322Z"
     description: Helm chart to deploy Datorios Flink
-    digest: ae517c8e4167f31b6f0fc0109a45556434ba1b661ada2726191cde36b9e9c0c7
+    digest: bcc112122507b7018518a4ba8ece65edf408db074dcf51709031eadcc5e8ab03
     name: datorios-flink
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   datorios-flink-ecosystem:
   - apiVersion: v2
     appVersion: 0.2.15
-    created: "2025-03-06T22:50:11.127561842+02:00"
+    created: "2025-04-17T10:13:19.54280219Z"
     description: Helm chart to deploy Datorios Flink Ecosystem
-    digest: 0b679edc7bd7b88f30601ba100f44a89790136190047d27ad5d23f9dae000c96
+    digest: 89dbb69957ac9bf1ddcc0529d057bb28d23d2bc95623d6cbfd251ce4c5bab517
     name: datorios-flink-ecosystem
     type: application
     urls:
     - https://helm.datorios.com/datorios-flink-ecosystem-0.2.15.tgz
     version: 0.2.15
-generated: "2025-03-06T22:50:11.127144338+02:00"
+generated: "2025-04-17T10:13:19.541971898Z"
